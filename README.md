@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un Sistema de Registro Académico en 
 
 El programa permite registrar múltiples notas, calcular automáticamente el promedio y determinar si el estudiante se encuentra aprobado o reprobado según el resultado obtenido. Cada operación se realiza mediante métodos definidos dentro de la clase principal, garantizando una organización clara del código y una correcta separación de responsabilidades.
 
-Este proyecto fortalece el uso de estructuras repetitivas, validación de datos y cálculos matemáticos dentro de un modelo orientado a objetos. Además, simula el funcionamiento básico de un sistema académico real, estableciendo una base sólida para futuras mejoras como gestión de múltiples estudiantes, generación de estadísticas o almacenamiento persistente de información.
+Este proyecto fortalece el uso de estructuras repetitivas, validación de datos y cálculos matemáticos dentro de un modelo orientado a objetos. 
 
 #
 ### 🧑‍💻 Lenguaje de programacion
